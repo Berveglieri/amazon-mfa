@@ -1,0 +1,3 @@
+br/com/fluxlynks/auth/Auth.class
+br/com/fluxlynks/auth/CreateMfa.class
+br/com/fluxlynks/auth/LoadInformation.class
